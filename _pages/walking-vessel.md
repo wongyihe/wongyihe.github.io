@@ -6,21 +6,25 @@ author_profile: true
 redirect_from:
   - /walking vessel/
 ---
+##  Background
+I am Yihe 易和, and my name is pronounced as "ee-her", which is the same pronunciation as the Chinese word "一盒", meaning "a box". Therefore, I consider myself a "walking vessel", collecting and carrying the memories and experiences from the exciting places I have lived and the interesting people I have met.
 
-My name "易和" is pronounced as "Yihe", which is the same pronunciation as "一盒" (which means "a box"), so I call myself a "walking vessel". A walking vessel that tries to get all the exciting places I've lived and interesting people I've met into my heart and move on with them.
+I grew up in [Wenzhou](https://en.wikipedia.org/wiki/Wenzhou), Zhejiang, a small coastal city in southeastern China. Because Wenzhou is geographically isolated, surrounded by mountains and sea, [Wenzhou dialect](https://en.wikipedia.org/wiki/Wenzhounese) is difficult to be understood by outsiders. My name is pronounced as Eve in Wenzhounese.
 
+My twin sister (yes, we are twins), Yizhi 易知, is a talented [ceramic artist](https://www.instagram.com/wangyizhi0924/) who lives in Tokyo, Japan. We place great importance on supporting new artists in the early stages of their careers!
 
-##  I have a twin sister! She is an amazing ceramic artist!
-Check out her work on Instagram [@wangyizhi0924](https://www.instagram.com/wangyizhi0924/).
-![sister and I](/images/walking-vessel/Sister&I.png)
+| ![sister and I](/images/walking-vessel/Sister&I2.jpeg) | ![sister and I](/images/walking-vessel/Sister&I.png) | ![sister's work](/images/walking-vessel/Yizhi_work.jpg) |
+| Great news! After three years of separation due to the COVID pandemic, we finally meet! | Little Yizhi and me. Guess which one is me? | Yizhi's ceramic works are going to be exhibited in Tokyo! |
+
 ##  Love traveling and enjoy the diversity
-### Taiwan (2015-2019)
-![Taiwan-1](/images/walking-vessel/Taiwan-1.jpeg)
-### London, UK (2019-2020)
-![London-2](/images/walking-vessel/London-2.jpeg)
-### Yunnan, China (2022)
-![Yunnan-1](/images/walking-vessel/Yunnan-1.jpeg)
-### Bremen, Germany (2022)
-![Bremen-1](/images/walking-vessel/bremen-1.jpeg)
+
+Initially, I thought I was traveling to discover the places that resonated most with me, but then I realized that I just appreciated the variety of experiences and enjoyed the diversity. Now, when I move to a new place, the question is no longer how to better fit in, but how to better enjoy the difference it offers.
+
+| ![Taiwan-1](/images/walking-vessel/Taiwan-1.jpeg) | ![London-2](/images/walking-vessel/London-2.jpeg) |
+| Taiwan (2015-2019) | London, UK (2019-2020) |
+| ![Yunnan-1](/images/walking-vessel/Yunnan-1.jpeg) | ![Bremen-1](/images/walking-vessel/bremen-1.jpeg) |
+| Yunnan, China (2022) | Bremen, Germany (2022) |
+
+
 ##  Much Love for my Puppy (Yes, I named her Puppy)
 ![Puppy-1](/images/walking-vessel/puppy-1.jpeg)
