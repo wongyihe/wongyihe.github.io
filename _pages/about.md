@@ -12,7 +12,7 @@ I am a first-year Ph.D. student at the University of California, Santa Cruz in t
 
 My work and research
 ======
-My research interests are in human-computer interaction with a focus on neurodiversity and digital accessibility.
+My research interests are in human-computer interaction with a focus on neurodiversity and digital accessibility. I use qualitative methods such as interviews and netnography to explore underlying issues, and am working to build quantitative studies to evaluate my prototype designs.
 
 
 My background and history
