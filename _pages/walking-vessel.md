@@ -21,9 +21,15 @@ My twin sister (yes, we are twins), Yizhi 易知, is a talented [ceramic artist]
 Initially, I thought I was traveling to discover the places that resonated most with me, but then I realized that I just appreciated the variety of experiences and enjoyed the diversity. Now, when I move to a new place, the question is no longer how to better fit in, but how to better enjoy the difference it offers.
 
 | ![Taiwan-1](/images/walking-vessel/Taiwan-1.jpeg) | ![London-2](/images/walking-vessel/London-2.jpeg) |
-| Taiwan (2015-2019) | London, UK (2019-2020) |
+| Taiwan, ROC (2015-2019) | London, UK (2019-2020) |
 | ![Yunnan-1](/images/walking-vessel/Yunnan-1.jpeg) | ![Bremen-1](/images/walking-vessel/bremen-1.jpeg) |
 | Yunnan, China (2022) | Bremen, Germany (2022) |
+
+##  Things I enjoy
+
+| ![hobby1](/images/walking-vessel/hobby1.jpg) | ![hobby3](/images/walking-vessel/hobby3.jpg) | ![hobby4](/images/walking-vessel/hobby4.jpg) |
+| Chinese Calligraphy | Kayaking | Pottery |
+
 
 
 ##  Much Love for my Puppy (Yes, I named her Puppy)
