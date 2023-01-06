@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the University of California, Santa Cruz in the Department of [Computational Media](https://engineering.ucsc.edu/departments/computational-media/). I am advised by [Dr. Kate Ringland](https://kateringland.com/) under the [Misfit Lab](https://www.misfit-lab.com/).
+I am a first-year Ph.D. student in [Computational Media](https://engineering.ucsc.edu/departments/computational-media/) at Baskin School of Engineering, University of California Santa Cruz. I am advised by [Dr. Kate Ringland](https://kateringland.com/) under [Misfit Lab](https://www.misfit-lab.com/).
 
 My work and research
 ======
-My research interests are in human-computer interaction with a focus on neurodiversity and digital accessibility. I use qualitative methods such as interviews and netnography to explore underlying issues, and am working to build quantitative studies to evaluate my prototype designs.
+ My research interests lie in the field of human-computer interaction, with a focus on neurodiversity and digital accessibility. I use qualitative methods such as interviews and netnography to explore underlying issues and better understand the needs and challenges of neurodiversity groups. My ultimate goal is to use this human-centered approach to maximize the benefits of technology for neurodiversity groups. Currently, I am working to build quantitative studies to evaluate my prototype designs.
 
 
 My background and history

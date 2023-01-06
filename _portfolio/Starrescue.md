@@ -2,10 +2,9 @@
 title: "StarRescue"
 excerpt: "A collaborative tablet game for children with autism.<br/><img src='/images/portfolio/starrescue/starrescue_cover.jpeg'>"
 collection: portfolio
+date: 2021-09-01
+
 ---
-
-**Date**: 1 Jun - 10 Sept, 2021
-
 **My Role**: Team Leader, Designer, Unity developer
 
 **Responsibility**:

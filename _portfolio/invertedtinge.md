@@ -1,11 +1,10 @@
 ---
 title: "Inverted Tinge"
-excerpt: "Paint in the water.<br/><img src='/images/portfolio/invertedtinge/it_cover.jpeg'>"
+excerpt: "Can we paint in the water?<br/><img src='/images/portfolio/invertedtinge/it_cover.jpeg'>"
 collection: portfolio
+date: 2019-05-01 
+
 ---
-
-**Date**: Nov 2018 - May, 2019
-
 **My Role**: Developer
 
 **Responsibility**: Physical prototyping

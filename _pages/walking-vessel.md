@@ -9,7 +9,7 @@ redirect_from:
 ##  Background
 I am Yihe 易和, and my name is pronounced as "ee-her", which is the same pronunciation as the Chinese word "一盒", meaning "a box". Therefore, I consider myself a "walking vessel", collecting and carrying the memories and experiences from the exciting places I have lived and the interesting people I have met.
 
-I grew up in [Wenzhou](https://en.wikipedia.org/wiki/Wenzhou), Zhejiang, a small coastal city in southeastern China. Because Wenzhou is geographically isolated, surrounded by mountains and sea, [Wenzhou dialect](https://en.wikipedia.org/wiki/Wenzhounese) is difficult to be understood by outsiders. My name is pronounced as Eve in Wenzhounese.
+I grew up in [Wenzhou](https://en.wikipedia.org/wiki/Wenzhou), Zhejiang, a small coastal city in southeastern China. Because Wenzhou is geographically isolated, surrounded by mountains and sea, [Wenzhou dialect](https://en.wikipedia.org/wiki/Wenzhounese) is difficult to be understood by outsiders. My name is pronounced as Eve in Wenzhounese. So please call me Eve; it makes me feel very close!
 
 My twin sister (yes, we are twins), Yizhi 易知, is a talented [ceramic artist](https://www.instagram.com/wangyizhi0924/) who lives in Tokyo, Japan. We place great importance on supporting new artists in the early stages of their careers!
 

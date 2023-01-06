@@ -2,10 +2,9 @@
 title: "UCLH ICU Pain Management"
 excerpt: "Redesign ICU pain management system.<br/><img src='/images/portfolio/painmanagement/pm_cover.png'>"
 collection: portfolio
+date: 2020-04-03
+
 ---
-
-**Date**: Jan - April, 2020
-
 **My Role**: UX researcher
 
 **Responsibility**:
