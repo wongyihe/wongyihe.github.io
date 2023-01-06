@@ -17,4 +17,4 @@ My work and research
 
 My background and history
 ======
-I received my M.S. from the [Human-Computer Interaction](https://uclic.ucl.ac.uk/) program at University College London, UK, and my B.S. from the Department of [Information Communication](http://www.infocom.yzu.edu.tw/index.php/en/information-2) at Yuan Ze University, Taiwan. Before joined UCSC as a PhD student, I worked with [Dr. Xin Tong](https://scholars.duke.edu/person/xin.tong) at Duke Kunshan University, China, as a graduate research assistant.
+I received my M.S. from the [Human-Computer Interaction](https://uclic.ucl.ac.uk/) program at University College London, UK, and my B.S. from the Department of [Information Communication](http://www.infocom.yzu.edu.tw/index.php/en/information-2) at Yuan Ze University, Taiwan. Before joined UCSC as a PhD student, I worked with [Dr. Xin Tong](https://scholars.duke.edu/person/xin.tong) at Duke Kunshan University, China, as a full-time research assistant.
