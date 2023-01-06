@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in [Computational Media](https://engineering.ucs
 
 My work and research
 ======
- My research interests lie in the field of human-computer interaction, with a focus on neurodiversity and digital accessibility. I use qualitative methods such as interviews and netnography to explore underlying issues and better understand the needs and challenges of neurodiversity groups. My ultimate goal is to use this human-centered approach to maximize the benefits of technology for neurodiversity groups. Currently, I am working to build quantitative studies to evaluate my prototype designs.
+ My research interests lie in the field of human-computer interaction, with a focus on neurodiversity and digital accessibility. I use qualitative methods such as interviews and netnography to explore underlying issues and better understand the needs and challenges of neurodiversity groups. My ultimate goal is to use a human-centered approach to develop technologies that promote the well-being of neurodiverse populations. Currently, I am working to build quantitative studies to evaluate my prototype designs.
 
 
 My background and history
