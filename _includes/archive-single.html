@@ -29,20 +29,23 @@
     {% if post.collection == 'publications' %}
     <p>{{post.author}}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <a href="{{ post.paperurl }}">{{ title }}</a>. <i>{{ post.venue }}</i>. {{ post.excerpt }}. </p>
     
+
     {% elsif post.collection == 'portfolio' %}
-      <h2 class="archive__item-title" itemprop="headline"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></h2>
+    <div class="archive__item-portfolio">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+
+      <h2 class="archive__item-portfolio_title" itemprop="headline">{{ title }}</h2>
       {% if post.excerpt and site.read_more != 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        <p class="archive__item-portfolio_excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% elsif post.excerpt and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+        <p class="archive__item-portfolio_excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
       {% endif %}
-      {% if post.citation and post.paperurl %}
-        <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-      {% elsif post.citation %}
-        <p>Recommended citation: {{ post.citation }} </p>
-      {% elsif post.paperurl %}
-        <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    
+      {% if post.cover %}
+      <div class="archive__item-portfolio_cover"><img src={{ post.cover }}></div>
       {% endif %}
+    </a>
+    </div>
 
 
 

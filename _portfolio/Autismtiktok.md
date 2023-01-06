@@ -1,6 +1,7 @@
 ---
 title: "Autistic Creators on TikTok (ongoing project)"
-excerpt: "Investigation on the Engagement of Autistic Creators on TikTok.<br/><img src='/images/portfolio/Autismtiktok/autism_tiktok_cover.png'>"
+excerpt: "Investigation on the Engagement of Autistic Creators on TikTok."
+cover: '/images/portfolio/Autismtiktok/autism_tiktok_cover.png'
 collection: portfolio
 date: 2022-10-06 
 

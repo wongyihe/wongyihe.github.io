@@ -1,6 +1,7 @@
 ---
 title: "Inverted Tinge"
-excerpt: "Can we paint in the water?<br/><img src='/images/portfolio/invertedtinge/it_cover.jpeg'>"
+excerpt: "How do we paint in the water?"
+cover: '/images/portfolio/invertedtinge/it_cover.jpeg'
 collection: portfolio
 date: 2019-05-01 
 

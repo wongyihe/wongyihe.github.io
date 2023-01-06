@@ -1,6 +1,7 @@
 ---
 title: "UCLH ICU Pain Management"
-excerpt: "Redesign ICU pain management system.<br/><img src='/images/portfolio/painmanagement/pm_cover.png'>"
+excerpt: "Redesign ICU pain management system."
+cover: '/images/portfolio/painmanagement/pm_cover.png'
 collection: portfolio
 date: 2020-04-03
 

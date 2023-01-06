@@ -1,6 +1,7 @@
 ---
 title: "StarRescue"
-excerpt: "A collaborative tablet game for children with autism.<br/><img src='/images/portfolio/starrescue/starrescue_cover.jpeg'>"
+excerpt: "A collaborative tablet game for children with autism."
+cover: '/images/portfolio/starrescue/starrescue_cover.jpeg'
 collection: portfolio
 date: 2021-09-01
 
