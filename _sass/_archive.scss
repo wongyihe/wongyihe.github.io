@@ -255,7 +255,7 @@
   text-decoration: none;
   color: #494e52;
 }
-.archive__item-portfolio_discription h2{
+.archive__item-portfolio_description h2{
 
   margin-top: 2em;
   font-size: $type-size-5;
@@ -263,31 +263,23 @@
 }
 
 .archive__item-portfolio{
-  
-  margin-bottom: 40px;
-  position: relative;
-  
-
+  display: flex;
+  justify-content: flex-start; 
+  margin-bottom: 20px;
 }
 .archive__item-portfolio_description{
 
-  position: absolute;
-  top: 0;
-  left: 30px;
-  width: 45%;
-  height: 100%;
-  display: none;
+  margin-left: 10px;
+  width: 50%;
+}
+.archive__item_cover{
+width: 50%;
 
 }
 
-.archive__item-portfolio:hover .archive__item-portfolio_description{
-  
-  display: block;
-
-}
-.archive__item-portfolio :hover img{
+.archive__item-portfolio:hover img{
   opacity: 0.3;
-
+  
 }
 
 

@@ -33,9 +33,9 @@
     {% elsif post.collection == 'portfolio' %}
 
     <div class="archive__item-portfolio">
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+    
       {% if post.cover %}
-      <img src={{ post.cover }}>
+      <div class="archive__item-portfolio_cover"><a href="{{ base_path }}{{ post.url }}" rel="permalink"><img src={{ post.cover }}></a></div>
       {% endif %}
       <div class="archive__item-portfolio_description">
         <h2 itemprop="headline">{{ title }}</h2>
@@ -46,7 +46,7 @@
         {% endif %}
       </div>
 
-    </a>
+      </a>
     </div>
 
 
