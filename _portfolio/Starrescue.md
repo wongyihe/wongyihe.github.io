@@ -3,6 +3,7 @@ title: "StarRescue"
 excerpt: "A collaborative tablet game for children with autism."
 cover: '/images/portfolio/starrescue/starrescue_cover.jpeg'
 collection: portfolio
+time: Summer Research Project, 2021
 date: 2021-09-01
 
 ---

@@ -3,7 +3,9 @@ title: "Inverted Tinge"
 excerpt: "How do we paint in the water?"
 cover: '/images/portfolio/invertedtinge/it_cover.jpeg'
 collection: portfolio
-date: 2019-05-01 
+time: Undergraduate Graduation Project, 2019
+date: 2019-05-01
+
 
 ---
 **My Role**: Developer

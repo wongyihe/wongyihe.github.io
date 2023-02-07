@@ -3,6 +3,7 @@ title: "UCLH ICU Pain Management"
 excerpt: "Redesign ICU pain management system."
 cover: '/images/portfolio/painmanagement/pm_cover.png'
 collection: portfolio
+time: Digital Health coursework, 2020
 date: 2020-04-03
 
 ---
