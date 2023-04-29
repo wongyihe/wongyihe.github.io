@@ -34,3 +34,7 @@ Initially, I thought I was traveling to discover the places that resonated most 
 
 ##  Much Love for my Puppy (Yes, I named her Puppy)
 ![Puppy-1](/images/walking-vessel/puppy-1.jpeg)
+
+## Recent Obsession - Star Gazing 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6MfBhZyY48SFKSso77F5sS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
