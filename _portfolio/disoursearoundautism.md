@@ -1,9 +1,9 @@
 ---
-title: "Autistic Creators on TikTok (ongoing project)"
-excerpt: "Investigation on the Engagement of Autistic Creators on TikTok."
+title: "Discourse around autism (ongoing project)"
+excerpt: "Listen to different stakeholders discuss autism and think about how it will shape the future technology?"
 cover: '/images/portfolio/Autismtiktok/autism_tiktok_cover.png'
 collection: portfolio
-time: Social Computing coursework, 2022
+time: 2022-2023
 date: 2022-10-06
 
 ---
