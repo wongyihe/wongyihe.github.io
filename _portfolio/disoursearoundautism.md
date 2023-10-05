@@ -15,6 +15,8 @@ HCI researchers are dedicated to studying how computational technologies can enh
 
 Nevertheless, such empowerment may be wishful thinking. For a long time, there has been an imbalance in power dynamics between autistic individuals and neurotypical individuals. Power does not reside in one person but exists within the relationships between individuals and groups. Under the medical model, researchers assume that behaviors differentiating autistic individuals from neurotypical individuals are abnormal and require correction. The only way to integrate autistic individuals into society is to make their behavior more like that of neurotypical individuals. This ultimately conveniences neurotypical individuals, as they do not have to make more efforts to accommodate the diverse needs of others.
 
+[Who Owns What](/images/portfolio/Autismtiktok/WhoOwnsWhat.png)
+
 "Design is aways political." Through design, HCI researchers redistributing power between individuals with autism and neurotypicals. **Aligning with HCI's human-centric philosophy, it is imperative to scrutinize the power dynamics of technology and prioritize the perspectives of individuals with autism. This approach is integral to the evolution of forthcoming technologies.** Therefore, Early in my doctoral program, I chose to conducted a series of studies to listen and understand these discourse.
 
 # What are autistic TikTokers talking about?

@@ -37,5 +37,5 @@ Initially, I thought I was traveling to discover the places that resonated most 
 
 ## Recent Obsession - Let's go stargazing together
 
-I created a Spotify Playlist for startgazing:)
+I created a Spotify Playlist for startgazing:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6MfBhZyY48SFKSso77F5sS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
