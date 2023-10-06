@@ -13,7 +13,7 @@ Hello! This is Yihe. I am a Ph.D. student in [Computational Media](https://engin
 
 My work and research
 ======
- My research interests lie in the field of human-computer interaction, with a focus on neurodiversity and digital accessibility.
+My research interests lie at the intersection of human-computer interaction, critical disability studies, sociotechnical systems, and digital accessibility. I am particularly passionate about advancing our understanding of critical disability issues, with a focus on neurodivergent individuals and those on the autism spectrum. 
 
 
 My background and history
