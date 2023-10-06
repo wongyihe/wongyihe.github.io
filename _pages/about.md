@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-
-
 Hello! This is Yihe. I am a Ph.D. student in [Computational Media](https://engineering.ucsc.edu/departments/computational-media/) at Baskin School of Engineering, University of California Santa Cruz. I am advised by [Dr. Kate Ringland](https://kateringland.com/) under [Misfit Lab](https://www.misfit-lab.com/).
 
 My work and research
