@@ -13,7 +13,7 @@ Hello! This is Yihe. I am a Ph.D. student in [Computational Media](https://engin
 
 My work and research
 ======
-My research interests lie at the intersection of human-computer interaction, critical disability studies, sociotechnical systems, and digital accessibility. I am particularly passionate about advancing our understanding of critical disability issues, with a focus on neurodivergent individuals and those on the autism spectrum. 
+My work takes a critical technical approach to Human-Computer Interaction, examining how computational agents mediate group communication and dynamics. I am currently designing and studying multi-user, context-aware chatbots to understand how they can facilitate or hinder teamwork and relationships. My past research centers neurodivergent perspectives and critically interrogates the values embedded in sociotechnical systems, aiming to support care, agency, and more accountable forms of interaction.
 
 
 My background and history
