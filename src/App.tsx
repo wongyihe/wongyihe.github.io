@@ -64,6 +64,7 @@ export default function App() {
               <button
                 key={tag}
                 onClick={() => setSelectedTag(tag === selectedTag ? null : tag)}
+                style={{ order: 500 - publications.filter(p => p.tags?.includes(tag)).length }}
                 className={`px-3 py-1.5 rounded-full text-[14px] transition-colors border ${
                   selectedTag === tag
                     ? "bg-black text-white border-black font-medium"

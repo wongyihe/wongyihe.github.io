@@ -51,7 +51,7 @@ export const projects = [
   {
     title: "Inverted Tinge",
     dates: "Dec 2018 - Jul 2019",
-    category: "Tangible Interaction",
+    category: "Interactive Installation",
     details: [
       "Inverted Tinge is an interactive water-painting installation that asks: How do we paint in the water?",
       "The work was exhibited at Songshan Cultural and Creative Park, Taipei, Taiwan (2019).",
