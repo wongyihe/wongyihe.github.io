@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from "react";
 import svgPaths from "../imports/svg-wxofekv4tt";
 
 function MenuIcon() {
@@ -18,7 +18,13 @@ function MenuIcon() {
   );
 }
 
+type NavItem = 
+  | { id: string; label: string; external?: false }
+  | { id: string; label: string; href: string; external: true };
+
 export function Navigation() {
+  const [isHovered, setIsHovered] = useState(false);
+
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
@@ -35,11 +41,11 @@ export function Navigation() {
     }
   };
 
-  const navItems = [
+  const navItems: NavItem[] = [
     { id: 'projects', label: 'Projects' },
     { id: 'publications', label: 'Publications' },
     { id: 'connect', label: 'Connect' },
-    { id: 'cv', label: 'CV', href: '/cv.pdf', external: true }
+    { id: 'cv', label: 'CV', href: 'https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/edit?usp=sharing', external: true }
   ];
 
   return (
@@ -48,13 +54,42 @@ export function Navigation() {
         <div className="flex items-center">
           <button 
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-            className="flex items-center hover:opacity-70 transition-opacity"
+            className="flex items-center hover:opacity-70 transition-opacity group"
             aria-label="Home"
           >
             <MenuIcon />
-            <span className="hidden md:block font-['Inter:Bold',_sans-serif] font-bold text-[18px] text-black">
-              Yihe Eve Wang
-            </span>
+            <div 
+              className="hidden md:block relative"
+              onMouseEnter={() => setIsHovered(true)}
+              onMouseLeave={() => setIsHovered(false)}
+            >
+              <span className="font-['Inter:Bold',_sans-serif] font-bold text-[18px] text-black cursor-pointer">
+                Yihe Eve Wang
+              </span>
+              <div 
+                className={`absolute bottom-full left-1/2 mb-2 px-4 py-2 text-white text-sm rounded-lg shadow-lg transition-all duration-300 ease-out pointer-events-none ${
+                  isHovered 
+                    ? 'opacity-100' 
+                    : 'opacity-0'
+                }`}
+                style={{ 
+                  transform: isHovered 
+                    ? 'translateX(0) translateY(0)' 
+                    : 'translateX(0) translateY(4px)',
+                  backgroundColor: '#1f2937',
+                  visibility: isHovered ? 'visible' : 'hidden',
+                  minWidth: '280px',
+                  maxWidth: '320px'
+                }}
+              >
+                <div className="relative">
+                  Yihe... ee-her. Eve, if you're hearing it in WenZhou dialect &gt;w&lt;
+                  <div className="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1">
+                    <div className="w-2 h-2 rotate-45" style={{ backgroundColor: '#1f2937' }}></div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </button>
         </div>
 

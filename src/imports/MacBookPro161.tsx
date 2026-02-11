@@ -1,7 +1,7 @@
 import svgPaths from "./svg-wxofekv4tt";
-import imgRectangle3 from "figma:asset/335165cac35317b175150d3d58804a88abf51e96.png";
-import imgRectangle7 from "figma:asset/173b0aeb0c6d07ebf79305e1c2d0df187e14d2d4.png";
-import imgRectangle8 from "figma:asset/ed8250df231121227f8b35e47fbceec57bd32c25.png";
+import imgRectangle3 from "../assets/img/seesawbot_img.png";
+import imgRectangle7 from "../assets/img/invertedtinge_img.png";
+// import imgRectangle8 from "../assets/img/..."; // File not found - commented out
 
 function Group23() {
   return (
@@ -359,7 +359,7 @@ function Group1() {
       <Group22 />
       <div className="absolute h-[360px] left-[4.63%] right-[81.19%] top-[2753px]">
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
-          <img alt="" className="absolute h-[156.9%] left-[-11.06%] max-w-none top-[-11.44%] w-[129.8%]" src={imgRectangle8} />
+          {/* <img alt="" className="absolute h-[156.9%] left-[-11.06%] max-w-none top-[-11.44%] w-[129.8%]" src={imgRectangle8} /> */}
         </div>
       </div>
     </div>

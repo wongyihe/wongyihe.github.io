@@ -1,6 +1,6 @@
-import imgRectangle3 from "figma:asset/335165cac35317b175150d3d58804a88abf51e96.png";
-import imgRectangle7 from "figma:asset/173b0aeb0c6d07ebf79305e1c2d0df187e14d2d4.png";
-import imgStarRescue from "figma:asset/07c965c63e245300a01902bb4e44b2f850802956.png";
+import imgRectangle3 from "../assets/img/seesawbot_img.png";
+import imgRectangle7 from "../assets/img/invertedtinge_img.png";
+import imgStarRescue from "../assets/img/starrescue_img.png";
 
 export const projects = [
   {
@@ -19,7 +19,7 @@ export const projects = [
     links: [
       {
         label: "CHI 2026",
-        url: "#"
+        url: "/assets/pdf/Wang et al. - 2026 - SeeSawBot An LLM-Driven Chatbot Mediating Across Private and Shared Slack Channels to Support Team.pdf"
       }
     ]
   },
@@ -40,11 +40,11 @@ export const projects = [
     links: [
       {
         label: "CHI PLAY 2022",
-        url: "/papers/starrescue.pdf"
+        url: "/assets/pdf/Huang et al. - 2022 - StarRescue Transforming A Pong Game to Visually C.pdf"
       },
       {
         label: "CHI 2024",
-        url: "/papers/starrescue.pdf"
+        url: "/assets/pdf/Bei et al. - 2024 - StarRescue the Design and Evaluation of A Turn-Taking Collaborative Game for Facilitating Autistic.pdf"
       }
     ]
   },
@@ -65,7 +65,7 @@ export const projects = [
     links: [
       {
         label: "Songshan 2019",
-        url: "/demo/inverted-tinge"
+        url: "https://www.youtube.com/watch?v=wZ2kF5PmpBs"
       }
     ]
   }

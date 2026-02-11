@@ -1,4 +1,4 @@
-import imgPortrait from "figma:asset/da91ef5dc2175eecab8d59f36025175168e5c234.png";
+import imgPortrait from "../assets/img/headshot_img.png";
 
 export const bioData = {
   header: "Thanks for reading all the way through!",
@@ -15,7 +15,7 @@ export const bioData = {
     links: [
       { label: "Email", url: "mailto:ywan1125@ucsc.edu", type: "email" },
       { label: "Linkedin", url: "https://www.linkedin.com/in/wangyihe/", type: "external" },
-      { label: "GitHub", url: "https://github.com/yihe-wang", type: "external" },
+      { label: "GitHub", url: "https://github.com/wongyihe", type: "external" },
       { label: "CV", url: "https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/edit?usp=sharing", type: "external" }
     ]
   }

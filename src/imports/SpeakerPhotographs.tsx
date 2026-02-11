@@ -1,4 +1,4 @@
-import imgAashreySharma2 from "figma:asset/da91ef5dc2175eecab8d59f36025175168e5c234.png";
+import imgAashreySharma2 from "../assets/img/headshot_img.png";
 
 export default function SpeakerPhotographs() {
   return (
