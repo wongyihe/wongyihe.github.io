@@ -8,7 +8,7 @@ export const publications = [
     links: [{ label: "PDF", url: "/assets/pdf/Wang et al. - 2026 - SeeSawBot An LLM-Driven Chatbot Mediating Across Private and Shared Slack Channels to Support Team.pdf" }]
   },
   {
-    title: "Negotiating Work-Life Boundaries in a Collectivist Context: The Case of Chinese Teachers on WeChat",
+    title: "🏆 Negotiating Work-Life Boundaries in a Collectivist Context: The Case of Chinese Teachers on WeChat",
     authors: ["Yihe Wang", "Kehua Lei", "David Lee", "Kathryn E. Ringland"],
     venue: "CHI",
     year: "2026",
