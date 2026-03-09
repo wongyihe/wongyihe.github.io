@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { updates } from "../data/updates";
+import { updates } from "../utils/updates";
 
 export function Header() {
   const [isExpanded, setIsExpanded] = useState(false);
