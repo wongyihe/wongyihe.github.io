@@ -16,7 +16,7 @@ export const bioData = {
       { label: "Email", url: "mailto:ywan1125@ucsc.edu", type: "email" },
       { label: "Linkedin", url: "https://www.linkedin.com/in/wangyihe/", type: "external" },
       { label: "GitHub", url: "https://github.com/wongyihe", type: "external" },
-      { label: "CV", url: "https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/edit?usp=sharing", type: "external" }
+      { label: "CV", url: "https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/preview", type: "external" }
     ]
   }
 };
