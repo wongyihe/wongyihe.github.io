@@ -45,7 +45,7 @@ export function Navigation() {
     { id: 'projects', label: 'Projects' },
     { id: 'publications', label: 'Publications' },
     { id: 'connect', label: 'Connect' },
-    { id: 'cv', label: 'CV', href: 'https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/edit?usp=sharing', external: true }
+    { id: 'cv', label: 'CV', href: 'https://docs.google.com/document/d/19v-5khckm2q5-35_Ebb4LmhKCcHK2As-PKVZJUKHlP8/preview', external: true }
   ];
 
   return (
