@@ -1,6 +1,8 @@
 # Updates
 
-Traveling to Barcelona to attend CHI 2026, serving as a student volunteer - Apr 2026
+Attending HCIC 2026 in Colorado! - June 2026
+
+Traveled to Barcelona to attend CHI 2026, serving as a student volunteer - Apr 2026
 
 My work "Negotiating Work-Life Boundaries in a Collectivist Context" was selected for Honorable Mention Award at CHI, here I shared my [murmur](https://www.linkedin.com/posts/wangyihe_happy-to-share-that-my-paper-%F0%9D%99%89%F0%9D%99%9A%F0%9D%99%9C%F0%9D%99%A4%F0%9D%99%A9%F0%9D%99%9E-activity-7436743730201509888-ZKjS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6102cBjE3zIOwgtaVneuY24W1WJjP74D0) - Mar 2026
 
