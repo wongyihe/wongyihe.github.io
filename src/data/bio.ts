@@ -3,8 +3,8 @@ import imgPortrait from "../assets/img/headshot_img.png";
 export const bioData = {
   header: "Thanks for reading all the way through!",
   description: [
-    "My dissertation examines how context-aware, cross-space AI mediators can be designed to reason about group-level Theory of Mind, and how such mediation reshapes group dynamics and relational agency in practice.",
-    "Drawing on insights from critical disability studies and culturally situated computing, my work advances a participatory view of knowledge-making, examining computational systems as sociotechnical actors that shape, limit, and reconfigure power dynamics in groups."
+    "My dissertation examines how context-aware, cross-space AI mediators can be designed to reason about Theory of Mind in group settings, and how such mediation reshapes group dynamics and relational agency in practice.",
+    "My work draws on critical socio-technical perspectives to examine how computational systems shape power dynamics in groups and support more participatory forms of knowledge-making."
   ],
   portrait: {
     src: imgPortrait,
