@@ -5,7 +5,7 @@ export const publications = [
     venue: "CHI",
     year: "2026",
     tags: ["Human-AI Interaction", "Relational & Boundary Work", "RtD & Technology Probes", "Multi-Party Interaction"],
-    links: [{ label: "PDF", url: "/assets/pdf/Wang et al. - 2026 - SeeSawBot An LLM-Driven Chatbot Mediating Across Private and Shared Slack Channels to Support Team.pdf" }]
+    links: [{ label: "PDF", url: "/assets/pdf/Wang et al. - 2026 - SeeSawBot An LLM-Driven Chatbot Mediating Across Private and Shared Slack Channels to Support Team.pdf" }, { label: "DOI", url: "https://dl.acm.org/doi/10.1145/3772318.3791880" }]
   },
   {
     title: "🏆 Negotiating Work-Life Boundaries in a Collectivist Context: The Case of Chinese Teachers on WeChat",
@@ -13,7 +13,7 @@ export const publications = [
     venue: "CHI",
     year: "2026",
     tags: ["Critical & Culturally Situated Computing", "Relational & Boundary Work", "Qualitative & Interpretive Inquiry"],
-    links: [{ label: "PDF", url: "/assets/pdf/Wang et al. - 2026 - Negotiating Work-Life Boundaries in a Collectivist Context The Case of Chinese Teachers on WeChat.pdf" }]
+    links: [{ label: "PDF", url: "/assets/pdf/Wang et al. - 2026 - Negotiating Work-Life Boundaries in a Collectivist Context The Case of Chinese Teachers on WeChat.pdf" }, { label: "DOI", url: "https://dl.acm.org/doi/10.1145/3772318.3791876" }]
   },
   {
     title: "🏆 \"They are Defenseless and Depend on Us to Protect Them\": How Chinese Parents Navigate Privacy for/with Autistic Children",
