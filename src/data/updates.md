@@ -2,7 +2,7 @@
 
 Attending HCIC 2026 in Colorado! - June 2026
 
-Wandered into SOCIUS Lab @ UBC with a little SeeSawBot tale - June 2026
+Wandered into [SOCIUS Lab @ UBC]([https://www.cs.ubc.ca/labs/socius/](https://www.cs.ubc.ca/labs/socius/)) with a little SeeSawBot tale - June 2026
 
 Traveled to Barcelona to attend CHI 2026, serving as a student volunteer - Apr 2026
 
