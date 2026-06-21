@@ -1,6 +1,6 @@
 # Updates
 
-Survived HCIC 2026 in Colorado with big ideas, thin air, and lovely hikes — June 2026
+Survived HCIC 2026 in Colorado with big ideas, thin air, and lovely hikes - June 2026
 
 Wandered into [SOCIUS Lab @ UBC](https://www.cs.ubc.ca/labs/socius/) with a little SeeSawBot tale - June 2026
 
