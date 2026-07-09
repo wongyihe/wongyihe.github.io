@@ -5,9 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Yihe Eve Wang</title>
     <script>
-      // GitHub Pages 404.html - redirect to index.html for client-side routing
-      sessionStorage.redirect = location.href;
-      location.replace(location.pathname.split('/').slice(0, -1).join('/') + '/index.html');
+      // GitHub Pages SPA deep-link support.
+      // GitHub serves this 404 page for any unknown path (e.g. /projects/seesawbot/).
+      // We encode the requested path into a query string and redirect to index.html,
+      // where a matching decoder (in index.html) restores the real URL so the custom
+      // router can render the right page. Based on rafgraph/spa-github-pages.
+      // pathSegmentsToKeep = 0 because the site is served from the domain root ("/").
+      var pathSegmentsToKeep = 0;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
     </script>
   </head>
   <body></body>

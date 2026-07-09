@@ -1,5 +1,10 @@
 import { useState } from "react";
 import svgPaths from "../imports/svg-wxofekv4tt";
+import { navigate } from "../router";
+
+function isHome() {
+  return (window.location.pathname.replace(/\/+$/, "") || "/") === "/";
+}
 
 function MenuIcon() {
   return (
@@ -25,7 +30,7 @@ type NavItem =
 export function Navigation() {
   const [isHovered, setIsHovered] = useState(false);
 
-  const scrollToSection = (id: string) => {
+  const scrollToSection = (id: string, behavior: ScrollBehavior = 'smooth') => {
     const element = document.getElementById(id);
     if (element) {
       const offset = 80; // Height of sticky nav + padding
@@ -36,8 +41,38 @@ export function Navigation() {
 
       window.scrollTo({
         top: offsetPosition,
-        behavior: 'smooth'
+        behavior
       });
+    }
+  };
+
+  // Section links only exist on the homepage. When clicked from another route,
+  // go home first, then jump to the section once it has mounted. The retry
+  // loop makes this robust to React committing the home page a few frames
+  // later, and the jump is instant ('auto') because browsers cancel smooth
+  // scrolls initiated across a route transition.
+  const goToSection = (id: string) => {
+    if (isHome()) {
+      scrollToSection(id);
+      return;
+    }
+    navigate('/');
+    let tries = 0;
+    const attempt = () => {
+      if (document.getElementById(id)) {
+        scrollToSection(id, 'auto');
+      } else if (++tries < 30) {
+        requestAnimationFrame(attempt);
+      }
+    };
+    requestAnimationFrame(attempt);
+  };
+
+  const goHome = () => {
+    if (isHome()) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      navigate('/');
     }
   };
 
@@ -52,8 +87,8 @@ export function Navigation() {
     <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur-sm border-b border-gray-100 w-full">
       <div className="max-w-[1568px] mx-auto px-6 md:px-20 h-16 flex items-center justify-between">
         <div className="flex items-center">
-          <button 
-            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          <button
+            onClick={goHome}
             className="flex items-center hover:opacity-70 transition-opacity group"
             aria-label="Home"
           >
@@ -111,7 +146,7 @@ export function Navigation() {
             return (
               <button
                 key={item.id}
-                onClick={() => scrollToSection(item.id)}
+                onClick={() => goToSection(item.id)}
                 className="font-['Inter:Regular',_sans-serif] text-[15px] text-gray-600 hover:text-black transition-colors"
               >
                 {item.label}

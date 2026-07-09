@@ -1,20 +1,11 @@
-interface ProjectCardProps {
-  title: string;
-  dates: string;
-  category: string;
-  details: string[];
-  media: {
-    type: 'image' | 'video';
-    src: string;
-    alt?: string;
-  };
-  links?: {
-    label: string;
-    url: string;
-  }[];
-}
+import { Link } from "../router";
+import type { Project } from "../data/projects";
 
-export function ProjectCard({ title, dates, category, details, media, links }: ProjectCardProps) {
+// Card accepts the full Project shape; `detail` is optional and, when present,
+// enables the "Read more" link to the project's dedicated page.
+type ProjectCardProps = Project;
+
+export function ProjectCard({ title, dates, category, details, media, links, detail }: ProjectCardProps) {
   return (
     <div className="max-w-[1568px] mx-auto px-6 md:px-20 py-16">
       <div className="grid grid-cols-1 md:grid-cols-[1fr_58%] gap-y-8 md:gap-16">
@@ -35,7 +26,7 @@ export function ProjectCard({ title, dates, category, details, media, links }: P
           {links && links.length > 0 && (
             <div className="pt-2 flex flex-wrap gap-2">
               {links.map((link, index) => (
-                <a 
+                <a
                   key={index}
                   href={link.url}
                   className="inline-flex items-center justify-center px-3 py-1 border border-black rounded-full text-[12px] font-['Inter:Regular',_sans-serif] text-black transition-colors hover:bg-black hover:text-white"
@@ -45,6 +36,18 @@ export function ProjectCard({ title, dates, category, details, media, links }: P
                   {link.label}
                 </a>
               ))}
+            </div>
+          )}
+
+          {/* Link to the project's dedicated case-study page, when one exists. */}
+          {detail && (
+            <div className="pt-1">
+              <Link
+                to={`/projects/${detail.slug}/`}
+                className="font-['Inter:Regular',_sans-serif] text-[14px] text-black underline underline-offset-4 hover:text-gray-600 transition-colors"
+              >
+                Read more →
+              </Link>
             </div>
           )}
         </div>
